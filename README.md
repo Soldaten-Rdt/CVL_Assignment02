@@ -8,3 +8,5 @@ source file terlalu besar untuk di upload karena mengandung banyak output slidin
 
 source file dapat diakses melalui link berikut : 
 https://colab.research.google.com/drive/1zz01p4S-WmFDU5uNBbrMUDVb7_pSA5ZI?usp=sharing 
+
+Note : Lag is expected
